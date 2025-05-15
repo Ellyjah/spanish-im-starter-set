@@ -1,8 +1,8 @@
 El módulo contiene la traducción para "Imperium Maledictum Starter Set", el módulo premium de Cubicle 7.
-Necesita para funcionar, aparte de este y del propio sistema, lo siguientes módulos:
+Necesita para funcionar, aparte de este y del propio sistema, lo siguientes:
    - Babele.
    - Lib-wrapper
-Si intentas habilitar el módulo sin alguno de ellos se producirá un error y no se llevará a cabo la instalación.
+Si intentas habilitar el módulo sin alguno de ellos se producirá un error y no se llevará a cabo la activación.
 
 Para instalarlo, puedes descargar el archivo zip directamente de la siguiente dirección:
 
