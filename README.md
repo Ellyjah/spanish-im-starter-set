@@ -1,14 +1,14 @@
-# Here is the working module for your translation!
+El módulo contiene la traducción para "Imperium Maledictum Core". El módulo premium de Cubicle 7. Necesita para funcionar, aparte del módulo premium y del propio sistema, lo siguientes módulos:
 
-Please take time todo some adjustments:
+    Babele.
+    Lib-wrapper Si intentas habilitar el módulo sin alguno de ellos se producirá un error y no se llevará a cabo la instalación.
 
-* Change the ID of the module (currently `your-module-id`)
-    * In the `module.json` file: `"id": "your-module-id"`
-    * In the `register.js` file: `const MODULE_ID = 'your-module-id'; // Change this ID!`
-    * The name of this directory
-* Customize the name and the description of the module and your name in the `module.json`
+Para instalarlo, puedes descargar el archivo zip directamente de la siguiente dirección:
 
-Feel free to make any changes you want.
+https://github.com/Ellyjah/spanish-im-starter-set/archive/refs/heads/main.zip
 
-Once all is done, all you have to do now is to move it into your Foundry `modules/` directory and activate it in a
-world.
+Y luego descomprimirlo en la carpeta modules.
+
+O bien, en el propio Foundry, una vez entras en "Instalar un módulo" introducir la siguiente dirección en la casilla inferior:
+
+https://github.com/Ellyjah/spanish-im-starter-set/raw/main/module.json
