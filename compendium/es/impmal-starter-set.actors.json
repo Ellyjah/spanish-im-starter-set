@@ -1,0 +1,1045 @@
+{
+  "label": "Actores (Set de Inicio)",
+  "mapping": {
+    "player": "system.notes.player",
+    "gm": "system.notes.gm"
+  },
+  "entries": {
+    "Accursed Torment": {
+        "name": "Tormento Maldito",
+        "tokenName": "Tormento Maldito",
+        "items": {
+          "Psyniscience": {
+            "name": "Psienciencia"
+          },
+          "*Emergent Daemon": {
+            "name": "*Demonio Emergente"
+          },
+          "Fearsome": {
+            "name": "Temible"
+          },
+          "Source of Corruption": {
+            "name": "Fuente de Corrupción"
+          },
+          "Unnatural Regeneration": {
+            "name": "Regeneración Antinatural"
+          },
+          "Hideous Mutations (Razor Claw)": {
+            "name": "Mutaciones Espantosas (Garra Afilada)"
+          },
+          "Hideous Mutations (Toxic Haemorrhage)": {
+            "name": "Mutaciones Espantosas (Hemorragia Tóxica)"
+          },
+          "Hideous Mutations (Wretched Maw)": {
+            "name": "Mutaciones Espantosas (Fauces Deformes)"
+          },
+          "Hideous Mutations": {
+            "name": "Mutaciones Espantosas"
+          }
+        },
+        "player": "<p>Convocado apresuradamente por Cultistas mal preparados, el cuerpo del Tormento Maldito se ha transformado en una masa de carne hirviente, elevándose a más de dos metros de altura sobre cuatro patas y con un peso superior a los 200 kilogramos. Sus extremidades y tentáculos se retraen y extienden según sea necesario. Su rostro está en el centro de su cuerpo, con ojos rodeando una boca llena de afilados dientes.</p>",
+        "gm": ""
+      },
+      "Accursed Torment Psyker": {
+        "name": "Psíquico del Tormento Maldito",
+        "tokenName": "Psíquico Maldito",
+        "items": {
+          "Psyniscience": {
+            "name": "Psienciencia"
+          },
+          "Psychic": {
+            "name": "Psíquico"
+          },
+          "Forbidden (Various)": {
+            "name": "Prohibido (Varios)"
+          },
+          "Disgustingly Resilient": {
+            "name": "Repulsivamente Resiliente"
+          },
+          "Fearsome": {
+            "name": "Temible"
+          },
+          "Malefic Psyker": {
+            "name": "Psíquico Maléfico"
+          },
+          "Call Vermin": {
+            "name": "Invocar Alimañas"
+          },
+          "Jinx": {
+            "name": "Maleficio"
+          },
+          "Smite": {
+            "name": "Golpe Psíquico"
+          },
+          "Twist Fate": {
+            "name": "Torcer el Destino"
+          },
+          "Compel": {
+            "name": "Compulsión"
+          },
+          "Dominate": {
+            "name": "Dominar"
+          },
+          "Mutated Flesh": {
+            "name": "Carne Mutada"
+          },
+          "Warp Threshold": {
+            "name": "Umbral de la Disformidad"
+          }
+        },
+        "player": "<p>El Psíquico del Tormento Maldito fue una vez humano, pero al abrazar la herejía se transformó con mutaciones, incluyendo sus talentos psíquicos. La ira lo impulsa, sabiendo que su único futuro bajo custodia del Imperio es la muerte. Por ello, lucha como si la victoria fuera su única oportunidad de supervivencia. Hace un esfuerzo simbólico por persuadir a sus enemigos de unirse a él, pero está mucho más interesado en dominarlos física y psíquicamente.</p>",
+        "gm": ""
+      },
+      "Aegidius Halikarn": {
+        "name": "Aegidius Halikarn",
+        "tokenName": "Halikarn",
+        "items": {
+          "Limitless Authority": {
+            "name": "Autoridad Ilimitada"
+          },
+          "Fearsome Reputation": {
+            "name": "Reputación Temible"
+          },
+          "Sanctum Obscurus": {
+            "name": "Sanctum Obscurus"
+          },
+          "Abrupt": {
+            "name": "Brusco"
+          },
+          "Demands Discretion": {
+            "name": "Exige Discreción"
+          },
+          "Paranoid": {
+            "name": "Paranoico"
+          }
+        },
+        "gm": "<p>Todo Inquisidor tiene sus secretos, e Inquisidor @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Aegidius Halikarn} no es diferente. Aunque sirve completamente al Imperio, el mandato y la misión de un Inquisidor son suyos para definir. Su verdadero propósito puede que nunca sea conocido por los personajes jugadores (al menos en el contexto de sus misiones en @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.K9f5dlvEMBE2fYeW]{Voll}), pero los detalles y el contexto de su misión verdadera pueden ayudarte a sembrar semillas para futuras aventuras e informar cómo podría resolverse esta.</p><p>@UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Halikarn’s} pares lo etiquetarían como un <em>Radical</em> si supieran sobre sus actividades. El Inquisidor es un firme <em>Recongregador</em>, creyendo que las estructuras de poder legítimas dentro del @UUID[Compendium.impmal-core.journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.dOdB17RuClYozQ15]{Sector Machariano} han sido alteradas desde su establecimiento tras la @UUID[Compendium.impmal-core.journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-conquests]{Cruzada Machariana}, y que aquellos que ostentan los más altos poderes en el Sector fueron colocados por traidores e impostores, permitiendo que la herejía florezca sin ser abordada.</p><p>El principal interés del Inquisidor @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Halikarn} es dirigirse a las familias nobles del sector, descubrir cómo llegaron al poder y desentrañar qué herejía podría estar oculta en las sombras de su pasado. Persigue agresivamente información sobre estas familias nobles y considera digno de recompensa a cualquier acólito que proporcione pruebas suficientemente condenatorias.</p>"
+      },
+      "Arch-deacon Artosy": {
+        "name": "Archidiácono Artosy",
+        "tokenName": "Artosy",
+        "items": {
+          "Human": {
+            "name": "Humano"
+          },
+          "High Gothic": {
+            "name": "Gótico Alto"
+          },
+          "True Faith": {
+            "name": "Fe Verdadera"
+          },
+          "Sacred Chant": {
+            "name": "Canto Sagrado"
+          },
+          "Bolt Pistol": {
+            "name": "Pistola Bolter"
+          },
+          "Power Maul": {
+            "name": "Porra de Energía"
+          },
+          "Carapace Chestplate": {
+            "name": "Peto de Caparazón"
+          },
+          "Holy Icon": {
+            "name": "Ícono Sagrado"
+          },
+          "Reliquary": {
+            "name": "Relicario"
+          },
+          "500 solars": {
+            "name": "500 solares"
+          },
+          "Laud Hailer": {
+            "name": "Altavoz Laudatorio"
+          },
+          "People": {
+            "name": "Gente"
+          }
+        },
+        "player": "<p><em><strong class=\"blue\">'No apreciáis el Mandato Divino del Emperador en este asunto.'</strong></em></p><p>@UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.aBGKfYzsc6ZZWilQ#arch-deacon-excavus-artosy]{Artosy} es un hombre alto y corpulento, de más de 2 metros de altura y casi 150 kilos de peso. Su cabeza calva presenta un tatuaje ornamentado de su Rosarius. Habla con una voz profunda, pausando deliberadamente para elegir cuidadosamente sus palabras.</p><p>La principal lealtad del Archidiácono es hacia el @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.XY6whksmB72I3xNS]{Serafín Llameante}. Se esfuerza por creer que es una manifestación del Emperador. A pesar de ello, reconoce la necesidad de mantener esas creencias en secreto. Compensa en exceso con bravuconería y una fe pública ferviente para contrarrestar su temor a ser considerado un hereje.</p>",
+        "gm": ""
+      },
+      "Artisan Hailon Epsilon Vorn": {
+        "name": "Artesano Hailon Epsilon Vorn",
+        "tokenName": "Hailon",
+        "items": {
+          "Biomechanical Interface": {
+            "name": "Interfaz Biomecánica"
+          },
+          "Utility Mechadendrite": {
+            "name": "Mecadendrita de Utilidad"
+          },
+          "Laspistol": {
+            "name": "Pistola Láser"
+          },
+          "100 solars": {
+            "name": "100 solares"
+          },
+          "Combi-Tool": {
+            "name": "Combi-Herramienta"
+          },
+          "Auspex": {
+            "name": "Auspex"
+          },
+          "Adeptus Mechanicus Robes": {
+            "name": "Togas del Adeptus Mechanicus"
+          },
+          "Improvised (Two-handed)": {
+            "name": "Improvisada (A dos manos)"
+          }
+        },
+        "player": "<p><em><strong class=\"blue\">‘[estática]... Expón tu propósito.’</strong></em></p><p>Hailon Epsilon Vorn es el ideal de un artesano del @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-mechanicus]{Adeptus Mechanicus}. Vorn comprende bien la gran máquina de la que forma parte y encuentra paz mental y propósito en su lugar dentro de sus mecanismos sagrados. Si se le pregunta, el Tecnosacerdote afirmaría que su motivación principal es la búsqueda de la eficiencia perfecta, y en gran medida es cierto. Sin embargo, en lo más profundo de Vorn se esconde una curiosidad sin límites, poco apropiada para alguien adoctrinado en la ortodoxia del Culto a la Máquina. Ninguna cantidad de solares podría captar su atención tan bien como la oferta de un secreto intrigante, y Vorn está más que dispuesto a intercambiar favores menores (o no tan menores) por la información adecuada.</p><p>Causar una buena primera impresión en Vorn es esencial si se desea hacer negocios con él. El ocupado Tecnosacerdote tiene poca paciencia para los que hacen perder el tiempo y se frustra rápidamente con preguntas necias. Rara vez expresa su exasperación verbalmente; sin embargo, considerando incluso eso un esfuerzo desperdiciado, simplemente se desconectará por completo de la conversación, activando filtros perceptuales que convierten las súplicas del infractor en poco más que un siseo molesto.</p>",
+        "gm": ""
+      },
+      "Casseum Calibus": {
+        "name": "Casseum Calibus",
+        "tokenName": "Calibus",
+        "items": {
+          "Sight": {
+            "name": "Vista"
+          },
+          "Human": {
+            "name": "Humano"
+          },
+          "Engineering": {
+            "name": "Ingeniería"
+          },
+          "Chirurgeon": {
+            "name": "Cirujano"
+          },
+          "Attentive Assistant": {
+            "name": "Asistente Atento"
+          },
+          "Laspistol": {
+            "name": "Pistola Láser"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Robes": {
+            "name": "Togas"
+          },
+          "Augmetic Respiratory System": {
+            "name": "Sistema Respiratorio Augmético"
+          },
+          "Augmetic Eye": {
+            "name": "Ojo Augmético"
+          },
+          "Chirurgeon's Kit (5 uses)": {
+            "name": "Kit de Cirujano (5 usos)"
+          },
+          "Vox-Caster": {
+            "name": "Vox-Caster"
+          },
+          "Laspistol Ammo": {
+            "name": "Munición de Pistola Láser"
+          }
+        },
+        "player": "<p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.BjXTaXcV2Zpp7FYZ]{Casseum Calibus}</p>",
+        "gm": ""
+      },
+      "Cultist": {
+        "name": "Cultista",
+        "tokenName": "Cultista",
+        "items": {
+          "Forbidden (Various)": {
+            "name": "Prohibido (Varios)"
+          },
+          "Deception": {
+            "name": "Engaño"
+          },
+          "Sanity is for the Weak": {
+            "name": "La Cordura es para los Débiles"
+          },
+          "Autogun": {
+            "name": "Autogun"
+          },
+          "Autopistol": {
+            "name": "Autopistola"
+          },
+          "Sword": {
+            "name": "Espada"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "20 Solars": {
+            "name": "20 Solares"
+          }
+        },
+        "player": "<p>Existen innumerables razones por las que los individuos eligen unirse a un culto: desesperación, resentimiento o un hambre de poder, por nombrar algunas. Independientemente del motivo, los cultistas suelen ser parte de las masas oprimidas que participan en rituales profanos bajo la atenta mirada de sus líderes, rezando por un atisbo de favor de su inhumano patrón. Su equipo suele ser improvisado y desechado, y reciben poco entrenamiento marcial de sus líderes, pero aun así se lanzarán contra sus enemigos con temeraria determinación si eso les ofrece la posibilidad de apaciguar a sus oscuros amos.</p>",
+        "gm": ""
+      },
+      "Gang Lieutenant Blister": {
+        "name": "Teniente de Banda Blister",
+        "tokenName": "Blister",
+        "items": {
+          "Ambusher": {
+            "name": "Emboscador"
+          },
+          "Cowardly Lieutenant": {
+            "name": "Teniente Cobarde"
+          },
+          "Repurposed Augmetics": {
+            "name": "Augméticos Reutilizados"
+          },
+          "Unstable Hand Cannon": {
+            "name": "Cañón de Mano Inestable"
+          },
+          "Webber": {
+            "name": "Lanzatelarañas"
+          },
+          "Augmetic Warp Claw": {
+            "name": "Garra Disforme Augmética"
+          },
+          "Heavy Leathers": {
+            "name": "Cueros Pesados"
+          },
+          "Filtration Plugs": {
+            "name": "Tapones de Filtración"
+          },
+          "Gang  Colours": {
+            "name": "Colores de Banda"
+          },
+          "150 solars": {
+            "name": "150 Solares"
+          },
+          "Fear": {
+            "name": "Miedo"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Sea lo que sea que quieras que hagamos los Cutters por ti, el precio será un brazo y una pierna.'</strong></em></span></p><p>Blister es una forajida despiadada, un alma corrupta tan cobarde como violenta. Solo se preocupa por su propia supervivencia, habiéndose aliado con los @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#cutters]{Cutters} para evitar convertirse en su presa, calculando cada decisión en su vida para asegurarse de ser siempre quien sostenga el arma. Blister se motiva con cualquier cosa que aumente sus posibilidades de sobrevivir: más solares, más armas, más aliados y más agujeros de bala en las cabezas de cualquiera que pueda amenazarla.</p>",
+        "gm": ""
+      },
+      "Ganger": {
+        "name": "Pandillero",
+        "tokenName": "Pandillero",
+        "items": {
+          "Ambusher": {
+            "name": "Emboscador"
+          },
+          "Home Turf": {
+            "name": "Terreno Conocido"
+          },
+          "Autogun": {
+            "name": "Autogun"
+          },
+          "Stub Pistol": {
+            "name": "Pistola de Tambor"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Heavy Leathers": {
+            "name": "Cuero Pesados"
+          },
+          "Gang Colours": {
+            "name": "Colores de Banda"
+          },
+          "Filtration Plugs": {
+            "name": "Tapones de Filtración"
+          },
+          "1d10 solars": {
+            "name": "1d10 solares"
+          }
+        },
+        "player": "",
+        "gm": "<p>El siguiente bloque de estadísticas puede utilizarse para cualquier tipo de Pandillero, incluyendo los @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#scarred-hands]{Manos Marcadas}, @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#block-24-96]{Bloque 24-69}, y los @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi-knives]{Cuchillos Vylathi}, aunque puedes optar por dirigir a los @UUID[Actor.bB0rMr6Gez3M9bME]{Pandilleros Cutters} con @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.jxmN8VeqyblB5rix#armourers-weapons]{Armas de Armero}. Los Pandilleros pueden ser adversarios formidables, especialmente en grupo.</p>"
+      },
+      "Hastil Starn": {
+        "name": "Hastil Starn",
+        "tokenName": "Hastil",
+        "items": {
+          "Psyniscience": {
+            "name": "Psienciencia"
+          },
+          "Psychic": {
+            "name": "Psíquico"
+          },
+          "Interrogation": {
+            "name": "Interrogatorio"
+          },
+          "Deception": {
+            "name": "Engaño"
+          },
+          "Spiritual Leader": {
+            "name": "Líder Espiritual"
+          },
+          "Broodmind Psyker": {
+            "name": "Psíquico de la Mente Enjambre"
+          },
+          "Warp Threshold": {
+            "name": "Umbral de la Disformidad"
+          },
+          "Autopistol": {
+            "name": "Autopistola"
+          },
+          "10d10 solars": {
+            "name": "10d10 solares"
+          },
+          "Smite": {
+            "name": "Golpe Psíquico"
+          },
+          "Mind Control": {
+            "name": "Control Mental"
+          },
+          "Magus Blodagger": {
+            "name": "Daga de Sangre del Magus"
+          },
+          "Magus Stave": {
+            "name": "Báculo del Magus"
+          }
+        },
+        "player": "",
+        "gm": ""
+      },
+      "Hex-sigma Numenon": {
+        "name": "Hex-sigma Numenon",
+        "tokenName": "Hex-sigma",
+        "items": {
+          "One-handed": {
+            "name": "A una mano"
+          },
+          "Biomechanical Interface": {
+            "name": "Interfaz Biomecánica"
+          },
+          "Mostly Augmetic": {
+            "name": "Mayormente Augmético"
+          },
+          "Optical Mechadendrite": {
+            "name": "Mecadendrita Óptica"
+          },
+          "Utility Mechadendrite": {
+            "name": "Mecadendrita de Utilidad"
+          },
+          "Inferno Pistol": {
+            "name": "Pistola Inferno"
+          },
+          "400 solars": {
+            "name": "400 solares"
+          },
+          "Auspex": {
+            "name": "Auspex"
+          },
+          "Combi-Tool": {
+            "name": "Combi-Herramienta"
+          },
+          "Adeptus Mechanicus Robes": {
+            "name": "Togas del Adeptus Mechanicus"
+          }
+        },
+        "player": "<p><em><strong class=\"blue\">‘Eso no ha sido debidamente santificado. Remítelo para su purificación de inmediato.’</strong></em></p><p>La Gerontócrata es la segunda miembro de mayor rango del @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-mechanicus]{Adeptus Mechanicus} dentro de @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.ciGIDGrZqWnhhZSn]{Colmena Rokarth}, pero mantiene una agenda distinta a la del Señor de la Forja. Está altamente interesada en la posibilidad de un nuevo patrón STC. Sin embargo, sospecha que podría tratarse de algo prohibido. Parece alta, pero está severamente encorvada debido a sus mejoras cibernéticas. Sus togas y capa ocultan su cuerpo, y su rostro muestra un velo metálico de componentes entrelazados. Habla rápidamente, con un zumbido subyacente en su discurso.<br>(Para más información, ver @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.aBGKfYzsc6ZZWilQ#mechasapient-hex-sigma-numenon]{Hex-sigma Numenon})</p>",
+        "gm": ""
+      },
+      "Idolon": {
+        "name": "Idolon",
+        "tokenName": "Idolon",
+        "items": {
+          "Pistols": {
+            "name": "Pistolas"
+          },
+          "Hide": {
+            "name": "Ocultarse"
+          },
+          "Ever Vigilant": {
+            "name": "Siempre Vigilante"
+          },
+          "Secret Identity": {
+            "name": "Identidad Secreta"
+          },
+          "Skulker": {
+            "name": "Acechador"
+          },
+          "Chrono": {
+            "name": "Crono"
+          },
+          "Comm Leech": {
+            "name": "Intercepción de Comunicaciones"
+          },
+          "Disguise Kit": {
+            "name": "Kit de Disfraz"
+          },
+          "Photo-Visors/Contacts": {
+            "name": "Foto-Visores/Lentes"
+          },
+          "Vox-Caster": {
+            "name": "Vox-Caster"
+          },
+          "Sniper Rifle": {
+            "name": "Rifle de Francotirador"
+          },
+          "Autopistol (Silenced)": {
+            "name": "Autopistola (Silenciada)"
+          },
+          "Armoured Bodyglove": {
+            "name": "Guante Corporal Blindado"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Sniper Rifle Ammo": {
+            "name": "Munición de Rifle de Francotirador"
+          },
+          "Autopistol (Silenced) Ammo": {
+            "name": "Munición de Autopistola (Silenciada)"
+          }
+        },
+        "player": "<p></p><p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.SFxc15pMHUUa0uxq]{Idolon}</p>",
+        "gm": ""
+      },
+      "Imperial Citizen": {
+        "name": "Ciudadano Imperial",
+        "tokenName": "Ciudadano",
+        "items": {
+          "Unarmed": {
+            "name": "Desarmado"
+          },
+          "Holy Icon": {
+            "name": "Ícono Sagrado"
+          },
+          "1d10 solars": {
+            "name": "1d10 solares"
+          },
+          "Ragged clothing": {
+            "name": "Ropas Andrajosas"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘El Dios-Emperador guía y protege.’</strong></em></span></p><p>El término más genérico, Ciudadano describe a cualquier súbdito del Imperio que no encaja en otra categoría. Los ciudadanos son las personas ordinarias que desempeñan los incontables roles menores que mantienen en funcionamiento al Imperio. Incluyen desde un trabajador de un hab hasta un comerciante de mercado o un colono en un mundo fronterizo. Rara vez poseen grandes riquezas o bienes valiosos, a menos que estén directamente relacionados con su papel en la sociedad.</p>",
+        "gm": ""
+      },
+      "Jaspar Castyx": {
+        "name": "Jaspar Castyx",
+        "tokenName": "Gobernador Castyx",
+        "items": {
+          "Fulfil the Tithe": {
+            "name": "Cumplir con el Diezmo"
+          },
+          "Authority of Voll": {
+            "name": "Autoridad de Voll"
+          },
+          "Servants!": {
+            "name": "¡Sirvientes!"
+          },
+          "Bolt Pistol": {
+            "name": "Pistola Bolter"
+          },
+          "Power Sword": {
+            "name": "Espada de Energía"
+          },
+          "Chrono": {
+            "name": "Crono"
+          },
+          "1000 solars": {
+            "name": "1000 solares"
+          },
+          "Refractor Field": {
+            "name": "Campo Refractor"
+          },
+          "Dataslate": {
+            "name": "Pizarra de Datos"
+          },
+          "Carapace Chestplate": {
+            "name": "Peto de Caparazón"
+          },
+          "Formal Uniform": {
+            "name": "Uniforme Formal"
+          },
+          "Bolt Pistol Ammo": {
+            "name": "Munición de Pistola Bolter"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Esto podría afectar al diezmo. Asegúrate de que no lo haga.'</strong></em></span></p><p>@UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{Gobernador Lord Castyx} se enfoca en mantener el statu quo y cumplir con el diezmo. Jaspar Castyx es un hombre anciano, con un fino cerco de cabello amarillento alrededor de los bordes de su cuero cabelludo. Viste ropa de alta calidad y moda sobre un ornamentado peto de caparazón. Pesa cuidadosamente cada decisión, siempre considerando qué opción proporciona el mayor beneficio con el menor esfuerzo.</p>",
+        "gm": ""
+      },
+      "Kalli Tannerin": {
+        "name": "Kalli Tannerin",
+        "tokenName": "Kalli",
+        "items": {
+          "One-handed": {
+            "name": "A una mano"
+          },
+          "Long Guns": {
+            "name": "Armas Largas"
+          },
+          "Deadeye": {
+            "name": "Ojo de Águila"
+          },
+          "Drilled": {
+            "name": "Entrenado"
+          },
+          "Tactical Movement": {
+            "name": "Movimiento Táctico"
+          },
+          "Backpack/Slings": {
+            "name": "Mochila/Bandoleras"
+          },
+          "Laspistol": {
+            "name": "Pistola Láser"
+          },
+          "Lasgun": {
+            "name": "Rifle Láser"
+          },
+          "Sword": {
+            "name": "Espada"
+          },
+          "Astra Militarum Flak Armour": {
+            "name": "Armadura de Flak del Astra Militarum"
+          },
+          "Frag Grenade": {
+            "name": "Granada de Fragmentación"
+          },
+          "Survival Gear": {
+            "name": "Equipo de Supervivencia"
+          },
+          "Micro-Bead/Vox Bead": {
+            "name": "Microperla/Vox Bead"
+          },
+          "Lasgun Ammo": {
+            "name": "Munición de Rifle Láser"
+          },
+          "Laspistol Ammo": {
+            "name": "Munición de Pistola Láser"
+          }
+        },
+        "player": "<p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.HbRdM1Lz5eRsXmc0]{Kalli Tannerin}</p>",
+        "gm": ""
+      },
+      "Leo 'wink' Rantz": {
+        "name": "Leo 'Guiño' Rantz",
+        "tokenName": "Leo",
+        "items": {
+          "Familiar Terrain": {
+            "name": "Terreno Familiar"
+          },
+          "Rokarth Native": {
+            "name": "Nativo de Rokarth"
+          },
+          "Stolen Augmetic": {
+            "name": "Augmético Robado"
+          },
+          "Autopistol": {
+            "name": "Autopistola"
+          },
+          "Brass Knuckles": {
+            "name": "Nudillos de Latón"
+          },
+          "Filtration Plugs": {
+            "name": "Tapones de Filtración"
+          },
+          "5 solars": {
+            "name": "5 solares"
+          },
+          "Hive Rokarth": {
+            "name": "Colmena Rokarth"
+          },
+          "Vox Bead": {
+            "name": "Microperla Vox"
+          },
+          "Light Leathers": {
+            "name": "Cueros Ligeros"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Estás llamando la atención. Tenemos que mezclarnos aquí.'</strong></em></span></p><p>Leo es un timador de éxito moderado con conexiones en los elementos menos respetables de @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.ciGIDGrZqWnhhZSn]{Colmena Rokarth}. Conoció al Inquisidor @UUID[Actor.Oh1HWiuX3Lmk0q0l]{Halikarn} cuando uno de sus engaños fracasó espectacularmente, dejándolo en deuda con él. Desde entonces, ha servido como informante y ocasionalmente como ayuda para los agentes del Inquisidor. Al comienzo de la aventura, está endeudado con los @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#cutters]{Cutters}.</p><p>En última instancia, Leo actúa en su propio interés. Causa una gran primera impresión y finge ser amable, pero no lo es. En cualquier conflicto, su prioridad es mantenerse a salvo y trabajar para cualquier causa que le beneficie directamente. Si ve que puede ser ventajoso, no duda en traicionar a sus aliados del momento. Situaciones que podrían presentarle nuevas oportunidades a menudo lo distraen de las tareas en curso. Los personajes deben mantenerlo enfocado.</p>",
+        "gm": ""
+      },
+      "Macharian Vigilite": {
+        "name": "Vigilante Machariano",
+        "tokenName": "Vigilite",
+        "items": {
+          "One-handed": {
+            "name": "A una mano"
+          },
+          "Interrogation": {
+            "name": "Interrogatorio"
+          },
+          "Intimidation": {
+            "name": "Intimidación"
+          },
+          "Call for Backup": {
+            "name": "Pedir Refuerzos"
+          },
+          "Incarceratus": {
+            "name": "Incarceratus"
+          },
+          "Shock Maul": {
+            "name": "Porra de Choque"
+          },
+          "Stub Revolver": {
+            "name": "Revólver de Proyectiles"
+          },
+          "Web Pistol": {
+            "name": "Pistola Lanzatelarañas"
+          },
+          "50 solars": {
+            "name": "50 solares"
+          },
+          "Vox Bead": {
+            "name": "Microperla Vox"
+          },
+          "Manacles": {
+            "name": "Esposas"
+          },
+          "Dataslate": {
+            "name": "Pizarra de Datos"
+          },
+          "Enforcer Carapace": {
+            "name": "Caparazón de Ejecutor"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Apártese, ciudadano.'</strong></em></span></p><p>Los Vigilantes Macharianos responden directamente a los decretos del Gobernador Planetario @UUID[Actor.iMGPD9w3Yzerz2g6]{Jaspar Castyx}, asegurando su propia posición y el cumplimiento de los diezmos. Mantienen la ley y el orden en la medida en que sirva a los propósitos del Gobernador. Visten armaduras pesadas y portan armamento diseñado para ser una amenaza visible. Donde los Ejecutores encuentran oposición, son brutales en la administración de la ‘justicia’. Sin embargo, por el precio adecuado, pueden hacer la vista gorda ante ciertas infracciones.</p>",
+        "gm": ""
+      },
+      "Mordecai Vreel": {
+        "name": "Mordecai Vreel",
+        "tokenName": "Mordecai",
+        "items": {
+          "Genestealer Mutation": {
+            "name": "Mutación Genestealer"
+          },
+          "Auto Pistol": {
+            "name": "Autopistola"
+          },
+          "5d10 solars": {
+            "name": "5d10 solares"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Autopistol": {
+            "name": "Autopistola"
+          },
+          "Cutting Torch": {
+            "name": "Soplete de Corte"
+          }
+        },
+        "player": "",
+        "gm": ""
+      },
+      "Reeta Von Mard": {
+        "name": "Reeta Von Mard",
+        "tokenName": "Reeta",
+        "items": {
+          "Psyniscience": {
+            "name": "Psienciencia"
+          },
+          "Telekinesis": {
+            "name": "Telequinesis"
+          },
+          "Condemn The Witch": {
+            "name": "Condena a la Bruja"
+          },
+          "Fated": {
+            "name": "Predestinada"
+          },
+          "Jinx": {
+            "name": "Maleficio"
+          },
+          "Twist Fate": {
+            "name": "Torcer el Destino"
+          },
+          "Psyker": {
+            "name": "Psíquico"
+          },
+          "Smite": {
+            "name": "Golpe Psíquico"
+          },
+          "Sanctioned Psyker": {
+            "name": "Psíquico Sancionado"
+          },
+          "Psy Focus": {
+            "name": "Foco Psíquico"
+          },
+          "Emperor's Tarot": {
+            "name": "Tarot del Emperador"
+          },
+          "Micro-Bead/Vox Bead": {
+            "name": "Microperla/Vox Bead"
+          },
+          "Laspistol": {
+            "name": "Pistola Láser"
+          },
+          "Laspistol Ammo": {
+            "name": "Munición de Pistola Láser"
+          },
+          "Mono-Knife": {
+            "name": "Cuchillo Mono"
+          },
+          "Robes (worn)": {
+            "name": "Togas (usadas)"
+          }
+        },
+        "player": "<p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.tJS5hnDrpHJDVhKJ]{Reeta Von Mard}</p>",
+        "gm": ""
+      },
+      "Scribe Master Lou": {
+        "name": "Maestra Escriba Lou",
+        "tokenName": "Maestra Lou",
+        "items": {
+          "Bureaucratic Boldness": {
+            "name": "Audacia Burocrática"
+          },
+          "Data Delver": {
+            "name": "Exploradora de Datos"
+          },
+          "Preserve the Records": {
+            "name": "Preservar los Registros"
+          },
+          "Plasma Pistol": {
+            "name": "Pistola de Plasma"
+          },
+          "Electro-Flail": {
+            "name": "Látigo Electro"
+          },
+          "Seal of Office": {
+            "name": "Sello de Cargo"
+          },
+          "Chrono": {
+            "name": "Crono"
+          },
+          "500 solars": {
+            "name": "500 solares"
+          },
+          "Administratum robes": {
+            "name": "Togas del Administratum"
+          },
+          "Dataslate": {
+            "name": "Pizarra de Datos"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Ahora, sé que realmente quieres ayudar al Imperio haciendo que este problema desaparezca.'</strong></em></span></p><p>La Maestra Escriba Lou es la miembro de mayor rango del @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-administratum]{Adeptus Administratum} en la reunión del consejo. Su autoridad se centra principalmente en el @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#mercator-lenimen]{Gremio Químico} y sus activos. Para mantener la productividad, cultiva una relación de trabajo con el @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#adeptus-mechanicus]{Adeptus Mechanicus}, que supervisa sus instalaciones.</p><p>La Maestra Escriba Lou parece exteriormente una anciana, pero mantiene la energía y el entusiasmo de alguien mucho más joven. Destaca en persuadir a otras personas de que sus problemas son en realidad su responsabilidad. Tiende a adoptar un enfoque maternal al hacerlo.<br><br>(Para más información, ver @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.aBGKfYzsc6ZZWilQ#administratum-overseer-jamine-lou]{Maestra Escriba Lou})</p>",
+        "gm": ""
+      },
+      "Scribus Magda Jorrgensen": {
+        "name": "Escriba Magda Jorrgensen",
+        "tokenName": "Magda",
+        "items": {
+          "On the Take": {
+            "name": "Sobornada"
+          },
+          "Data Delver": {
+            "name": "Exploradora de Datos"
+          },
+          "Brass Knuckles": {
+            "name": "Nudillos de Latón"
+          },
+          "several Scrolls and  Quills": {
+            "name": "Varios Pergaminos y Plumas"
+          },
+          "Seal of Office": {
+            "name": "Sello de Cargo"
+          },
+          "Chrono": {
+            "name": "Crono"
+          },
+          "100 solars": {
+            "name": "100 solares"
+          },
+          "Administratum robes": {
+            "name": "Togas del Administratum"
+          }
+        },
+        "player": "<p><span style=\"font-family: MinionPro\"><em style=\"box-sizing: border-box; user-select: text;\"><strong class=\"blue\" style=\"box-sizing: border-box; user-select: text; color: var(--impmal-lightblue);\">‘Necesito eso en el formulario de solicitud de cambio Delta-857-Phi-4X, por triplicado, con la firma de tu Supervisor.'</strong></em></span></p><p>La Escriba Magda Jorrgensen gestiona los registros de personal en el @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.i7jK88CnFBdOtyRd#datamill-district]{Distrito de Procesamiento de Datos} para varias instalaciones, incluida la @UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.XWjIkLBokiwV20Dr#acid-refinery-delta-64]{Refinería de Ácido} destruida en el incidente. Es responsable de asegurar que los registros sean debidamente archivados, almacenados y auditados de manera rutinaria. Su habla y su mantenimiento de registros son extremadamente precisos.</p><p>La escriba mejora su estilo de vida vendiendo exenciones contables a varios grupos, incluyendo los @UUID[JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#scarred-hands]{Manos Marcadas}. Es plenamente consciente de la naturaleza criminal de esta acción, y la culpa la atormenta. Magda vive con el miedo constante de ser descubierta y puede actuar de manera impulsiva para proteger su secreto.</p>",
+        "gm": ""
+      },
+      "Sister Helza Scorn": {
+        "name": "Hermana Helza Scorn",
+        "tokenName": "Helza",
+        "items": {
+          "Theology": {
+            "name": "Teología"
+          },
+          "One-handed": {
+            "name": "A una mano"
+          },
+          "Faithful (imperial Cult)": {
+            "name": "Ferviente (Culto Imperial)"
+          },
+          "Frenzy": {
+            "name": "Frenesí"
+          },
+          "Icon Bearer": {
+            "name": "Portadora del Ícono"
+          },
+          "Holy Icon": {
+            "name": "Ícono Sagrado"
+          },
+          "Laud Hailer": {
+            "name": "Altavoz Laudatorio"
+          },
+          "Micro-Bead/Vox Bead": {
+            "name": "Microperla/Vox Bead"
+          },
+          "Writing Kit": {
+            "name": "Kit de Escritura"
+          },
+          "Hand Flamer": {
+            "name": "Lanzallamas de Mano"
+          },
+          "Hand Flamer Ammo": {
+            "name": "Munición de Lanzallamas de Mano"
+          },
+          "Chainsword": {
+            "name": "Espada Sierra"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Robes": {
+            "name": "Togas"
+          },
+          "Breastplate": {
+            "name": "Peto"
+          },
+          "Robes (In backpack)": {
+            "name": "Togas (En mochila)"
+          }
+        },
+        "player": "<p></p><p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.rmVbVfMYqWAZ0ryC]{Hermana Helza Scorn}</p>",
+        "gm": ""
+      },
+      "Skir": {
+        "name": "Skir",
+        "tokenName": "Skir",
+        "items": {
+          "Climbing": {
+            "name": "Escalada"
+          },
+          "Brawling": {
+            "name": "Pelea"
+          },
+          "Intimidation": {
+            "name": "Intimidación"
+          },
+          "Pistols": {
+            "name": "Pistolas"
+          },
+          "Genestealer Mutation": {
+            "name": "Mutación Genestealer"
+          },
+          "Helping Hand": {
+            "name": "Mano Amiga"
+          },
+          "Autopistol": {
+            "name": "Autopistola"
+          },
+          "5d10 solars": {
+            "name": "5d10 solares"
+          },
+          "Hide": {
+            "name": "Ocultarse"
+          },
+          "Claws": {
+            "name": "Garras"
+          },
+          "Cult Bonesword": {
+            "name": "Espada Ósea del Culto"
+          },
+          "Heavy Saw": {
+            "name": "Sierra Pesada"
+          }
+        },
+        "player": "",
+        "gm": ""
+      },
+      "The Armourer": {
+        "name": "El Armero",
+        "tokenName": "El Armero",
+        "items": {
+          "Augmetic Heart": {
+            "name": "Corazón Augmético"
+          },
+          "Pay with Sanity": {
+            "name": "Pagar con Cordura"
+          },
+          "Utility Mechadendrite": {
+            "name": "Mecadendrita de Utilidad"
+          },
+          "Plasma Pistol": {
+            "name": "Pistola de Plasma"
+          },
+          "Refractor Field": {
+            "name": "Campo Refractor"
+          },
+          "50 solars": {
+            "name": "50 solares"
+          },
+          "Improvised (Two-handed)": {
+            "name": "Improvisada (A dos manos)"
+          },
+          "Tattered Hooded Robes": {
+            "name": "Togas Raídas con Capucha"
+          },
+          "Auspex": {
+            "name": "Auspex"
+          },
+          "Dataslate with heretical schematics": {
+            "name": "Pizarra de Datos con Esquemas Heréticos"
+          },
+          "Combi-Tool": {
+            "name": "Combi-Herramienta"
+          }
+        },
+        "player": "<p><em><strong class=\"blue\">‘Necesito que me ayudes a probar mi última creación.’</strong></em></p><p>El Armero es una fusión de elementos biomecánicos sobre una plantilla mutante. Su tamaño y forma bajo su raída capa son fluidos, como si su cuerpo cambiara y se adaptara según sus necesidades. Abrazó la experimentación y la innovación, comenzando con su propio cuerpo.</p><p>El único interés del Armero es la innovación. No está dispuesto a negociar ni compartir sus hallazgos con nadie más, a menos que le aseguren oportunidades futuras para experimentar libremente. En conflicto, burla a sus oponentes, diciéndoles que su estoicismo los ralentiza, mientras él los supera tanto física como mentalmente.</p>",
+        "gm": ""
+      },
+      "Wilkus Garn": {
+        "name": "Wilkus Garn",
+        "tokenName": "Wilkus",
+        "items": {
+          "Sight": {
+            "name": "Vista"
+          },
+          "People": {
+            "name": "Gente"
+          },
+          "Inquiry": {
+            "name": "Indagación"
+          },
+          "Air of Authority": {
+            "name": "Aire de Autoridad"
+          },
+          "Data Delver": {
+            "name": "Explorador de Datos"
+          },
+          "Dealmaker": {
+            "name": "Negociador"
+          },
+          "Overseer": {
+            "name": "Supervisor"
+          },
+          "Ugly Augmetic Eye": {
+            "name": "Horrible Ojo Augmético"
+          },
+          "Dataslate": {
+            "name": "Pizarra de Datos"
+          },
+          "Pict Recorder": {
+            "name": "Grabador Pictográfico"
+          },
+          "Filtration Plugs": {
+            "name": "Tapones de Filtración"
+          },
+          "Micro-Bead/Vox Bead": {
+            "name": "Microperla/Vox Bead"
+          },
+          "Writing Kit": {
+            "name": "Kit de Escritura"
+          },
+          "Laspistol": {
+            "name": "Pistola Láser"
+          },
+          "Laspistol Ammo": {
+            "name": "Munición de Pistola Láser"
+          },
+          "Knife": {
+            "name": "Cuchillo"
+          },
+          "Robes (worn)": {
+            "name": "Togas (usadas)"
+          }
+        },
+        "player": "<p></p><p>@UUID[JournalEntry.G9oZNv929oLb66XL.JournalEntryPage.Q5jskIeMheQzcuyF]{Wilkus Garn}</p>",
+        "gm": ""
+      }
+  }
+}

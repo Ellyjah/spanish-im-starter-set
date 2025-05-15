@@ -1,0 +1,195 @@
+{
+  "label": "Objetos (Set de Inicio)",
+  "mapping": {
+    "player": "system.notes.player"
+  },
+  "folders": {
+    "Adventure": "Aventura",
+    "Augmetics": "Aumentos",
+    "Equipment": "Equipo",
+    "Protection": "Protección",
+    "Weapons": "Armas"
+  },
+  "entries": {
+    "Armourer’s Flamer": {
+      "name": "Lanzallamas de armero",
+      "player": "<p>@UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.jxmN8VeqyblB5rix#armourers-weapons]{Armas de armero}</p><p><span style=\"font-family: Novarese\">A distancia (Armas largas) 40, 8 + SL Daño, Alcance Medio. Corto, Lanzallamas, Inflige (En Llamas), Ruidoso, Inestable (5+).</span></p>"
+    },
+    "Armourer’s Hot-Shot Lasgun": {
+      "name": "Rifle Láser de Disparo Portente de Armero",
+      "player": "<p>@UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.jxmN8VeqyblB5rix]{Bestiario de la Aventura}</p><p><span style=\"font-family: Novarese\">Lasgun de disparo potente de armero: A distancia (Armas largas) 40, 8 + SL Daño, Alcance Largo. Ráfaga, Ruidoso, Penetración (2), A dos manos, Inestable (7+).</span></p>"
+    },
+    "Armourer’s Plasma Gun": {
+      "name": "Fusil de Plasma de Armero",
+      "player": "<p>@UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.jxmN8VeqyblB5rix]{Bestiario de la Aventura}</p><p><span style=\"font-family: Novarese\">Fusil de plasma de armero: A distancia (Armas largas) 40, 10 + SL Daño, Alcance Largo. Ruidoso, Penetración (6), Sobrecarga (4), A dos manos, Inestable (3+).</span></p>"
+    },
+    "Armourer’s Webber": {
+      "name": "Lanzatelarañas de Armero",
+      "player": "<p>@UUID[JournalEntry.arjSGA9gcUykxq0z.JournalEntryPage.jxmN8VeqyblB5rix]{Bestiario de la Aventura}</p><p><span style=\"font-family: Novarese\">Lanzatelarañas del armero: A distancia (Armas largas) 40, Sin Daño, Alcance Largo. Inflige (Restringido), A dos manos, Inestable (9+).</span></p>"
+    },
+    "Augmetic Arm": {
+      "name": "Brazo Aumentado",
+      "player": "<p>Entre las partes augméticas más comunes en el Imperio, estos miembros pueden verse en todas partes, desde campos de batalla hasta manufactorums. Un Brazo Augmético tiene los siguientes efectos:</p><ul><li><p>El brazo otorga +1 de Armadura, que se suma a cualquier otra Armadura en la ubicación.</p></li><li><p>Obtienes +1 GD en todas las Pruebas basadas en Fuerza que utilicen el brazo, y los ataques cuerpo a cuerpo con el brazo infligen +1 de Daño.</p></li><li><p>Si tienes dos brazos augméticos, obtienes +2 GD en Pruebas basadas en Fuerza que utilicen ambos brazos, y +2 de Daño con armas cuerpo a cuerpo a dos manos.</p></li></ul>"
+    },
+    "Augmetic Ear": {
+      "name": "Oído Aumentado",
+      "player": "<p>Los aumentos sensoriales pueden ser sutiles o bastante evidentes, especialmente en el caso de los ojos augméticos, que son un signo de estatus muy valorado en muchos mundos. Sin embargo, en la mayoría de los casos, estos aumentos existen para reemplazar características perdidas en la guerra o por accidente. Todos tienen interfaces neurológicas para transmitir información sensorial de la misma manera que los órganos naturales.</p><ul><li><p>Obtienes +1 GD en las Pruebas que utilicen ese sentido.</p></li><li><p>Si tienes dos ojos augméticos o dos oídos augméticos, obtienes +2 GD en su lugar.</p></li></ul>"
+    },
+    "Augmetic Eye": {
+      "name": "Ojo Aumentado",
+      "player": "<p>Los aumentos sensoriales pueden ser sutiles o bastante evidentes, especialmente en el caso de los ojos augméticos, que son un signo de estatus muy valorado en muchos mundos. Sin embargo, en la mayoría de los casos, estos aumentos existen para reemplazar características perdidas en la guerra o por accidente. Todos tienen interfaces neurológicas para transmitir información sensorial de la misma manera que los órganos naturales.</p><ul><li><p>Obtienes +1 GD en las Pruebas que utilicen ese sentido.</p></li><li><p>Si tienes dos ojos augméticos o dos oídos augméticos, obtienes +2 GD en su lugar.</p></li></ul>"
+    },
+    "Augmetic Leg": {
+      "name": "Pierna Aumentada",
+      "player": "<p>Las piernas a veces se pierden debido a accidentes industriales o infecciones contraídas en los pantanos de los mundos mortales. Las augméticas restauran la locomoción del usuario y tienden a ser más robustas que sus miembros originales.</p><ul><li>La pierna otorga +1 de Armadura, que se suma a cualquier otra Armadura en la ubicación.</li><li>Obtienes +1 GD en todas las Pruebas basadas en Fuerza que utilicen la pierna, como al patear una puerta.</li></ul>"
+    },
+    "Augmetic Nose": {
+      "name": "Nariz Aumentada",
+      "player": "<p>Los aumentos sensoriales pueden ser sutiles o bastante evidentes, especialmente en el caso de los ojos augméticos, que son un signo de estatus muy valorado en muchos mundos. Sin embargo, en la mayoría de los casos, estos aumentos existen para reemplazar características perdidas en la guerra o por accidente. Todos tienen interfaces neurológicas para transmitir información sensorial de la misma manera que los órganos naturales.</p><ul><li><p>Obtienes +1 GD en las Pruebas que utilicen ese sentido.</p></li><li><p>Si tienes dos ojos augméticos o dos oídos augméticos, obtienes +2 GD en su lugar.</p></li></ul>"
+    },
+    "Autogun": {
+      "name": "Rifle Automático",
+      "player": ""
+    },
+    "Autopistol": {
+      "name": "Pistola Automática",
+      "player": ""
+    },
+    "Blasting Charge": {
+      "name": "Carga Explosiva",
+      "player": "<p>Diseñadas ostensiblemente para operaciones mineras, las cargas explosivas suelen ser tubos voluminosos llenos de explosivos compactos. Aunque están diseñadas para conectarse entre sí y detonarse a distancia, son utilizadas con frecuencia como explosivos improvisados por bandas y disidentes en mundos industriales, donde su funcionamiento es bien conocido y se encuentran en grandes cantidades. Las cargas explosivas son poderosas, pero tienen un radio limitado.</p>"
+    },
+    "Brass Knuckles": {
+      "name": "Nudilleras de Bronce",
+      "player": ""
+    },
+    "Chainsword": {
+      "name": "Espada de Sierra",
+      "player": ""
+    },
+    "Chirurgeon's Kit (5 uses)": {
+      "name": "Kit de Cirujano (5 usos)",
+      "player": "<p>Este es un pequeño y portátil paquete de autoescalpelos, detenedores de hemorragias, selladores de heridas, vendajes y otros elementos para ayudar en esfuerzos quirúrgicos realizados fuera de instalaciones adecuadas. Incluso aquellos con poca habilidad en estos asuntos podrían salvar vidas con este kit.</p><p>Un Kit de Cirujano es necesario para tratar muchas @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{Heridas Críticas}, así como ciertas @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{Lesiones}. Un Kit de Cirujano también es necesario para obtener los beneficios del @UUID[Compendium.impmal-core.items.Item.au8V1ieKIHkTeA8l]{Talento de Cirujano}.</p><p>Puedes usar el Kit de Cirujano cinco veces antes de que deba ser reabastecido. El costo para reabastecerlo es igual a la mitad del costo de un Kit de Cirujano basado en su @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{disponibilidad}. Puedes gastar un uso del kit para eliminar una @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Condición de Sangrado} no adquirida por una Herida Crítica con una <strong>Prueba de Medicae Fácil (+40)</strong>. Usar el Kit de Cirujano para tratar una herida o lesión, o para eliminar una @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Condición de Envenenado}, también requiere una Prueba de Medicae. A menos que se indique lo contrario, la dificultad de la prueba es Desafiante (+0). En caso de fallo, se consume un uso de los suministros sin efecto.</p>"
+    },
+    "Chrono": {
+      "name": "Crono",
+      "player": "<p>Un Crono es un objeto básico, aunque a menudo pasado por alto, utilizado para determinar la hora. Las personas ingeniosas usan los Cronos para sincronizar sus acciones.</p><p>Los Cronos muestran la hora actual y, si el planeta lo permite, se ajustan automáticamente a la hora local después de solo unos segundos en la superficie.</p>"
+    },
+    "Filtration Plugs": {
+      "name": "Tapones de Filtración",
+      "player": "<p>Estos objetos son simples de fabricar y usar. Vienen en pares y se colocan dentro de las fosas nasales para eliminar contaminantes nocivos y gases peligrosos (siempre que el usuario recuerde no respirar por la boca).</p><p>Mientras usas tapones de filtración, obtienes +2 GD en Pruebas de Fortaleza realizadas para resistir los efectos de gases dañinos, como en Zonas con el Rasgo @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Peligro}.</p>"
+    },
+    "Fire Bomb": {
+      "name": "Bomba Incendiaria",
+      "player": "<p>Las bombas incendiarias son explosivos ancestrales, que se remontan a un pasado incognoscible cuando los humanos descubrieron por primera vez que ciertos líquidos eran inflamables. El prometio u otras sustancias exóticas se colocan en recipientes frágiles, equipados con trapos ardientes o ignitores electrónicos, y se lanzan. El recipiente estalla al impactar, esparciendo líquido en llamas por un área extensa. Debido a su facilidad de construcción, las bombas rudimentarias se encuentran en casi todos los mundos imperiales, y las llamas que propagan suelen ser los primeros signos de una insurrección.</p><p>Puedes realizar un Ataque a Distancia para apuntar a un enemigo con una Bomba Incendiaria. El objetivo queda @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{En Llamas}. Alternativamente, puedes apuntar a una Zona con una Bomba Incendiaria. Una Bomba Incendiaria convierte la Zona impactada en un @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Peligro Menor} durante tres rondas. Esta duración puede extenderse o acortarse dependiendo de la cantidad de material inflamable en la Zona, como bosques áridos o agujas resbaladizas por la lluvia.</p>"
+    },
+    "Flak Boots": {
+      "name": "Botas Flak",
+      "player": ""
+    },
+    "Flak Gauntlets": {
+      "name": "Guantes Flak",
+      "player": ""
+    },
+    "Flak Helmet": {
+      "name": "Casco Flak",
+      "player": ""
+    },
+    "Flak Jacket": {
+      "name": "Chaqueta Flak",
+      "player": ""
+    },
+    "Flak Vest": {
+      "name": "Traje Flak",
+      "player": ""
+    },
+    "Flamer": {
+      "name": "Lanzallamas",
+      "player": ""
+    },
+    "Frag Grenade": {
+      "name": "Granada de Fragmentación",
+      "player": "<p>Quizás las municiones de grado militar imperial más ampliamente utilizadas, las municiones de fragmentación se encuentran comúnmente en forma de granadas y misiles. Ambos explotan en una lluvia de metralla y otros metales lacerantes, lo que los hace ideales para funciones anti-infantería. Casi todos los guerreros del Imperio, desde los soldados del Militarum hasta los élite de los Marines Espaciales, llevan granadas de fragmentación para ayudar en los asaltos, mientras que los lanzagranadas proporcionan una supresión de infantería a mayor alcance. Los misiles de fragmentación son la versión más potente, con un mayor alcance para debilitar posiciones distantes como equipos de armas pesadas.</p><p>Las granadas de fragmentación tienen un gran radio de explosión y causan un daño considerable.</p>"
+    },
+    "Genestealer Mutation": {
+      "name": "Mutación Genestealer",
+      "player": "<p>La criatura está conectada a la Mente Enjambre de los Genestealers y obtiene Ventaja en Pruebas de Disciplina cuando se encuentra dentro del Alcance Largo de un Psíquico Genestealer.</p>"
+    },
+    "Glow-Globe/Stablight": {
+      "name": "Globo Luminoso / Luz de Punción",
+      "player": "<p>Los espacios oscuros dentro del Sector Machariano exigen luz purificadora, tanto figurativamente como literalmente. Las luces de punción son portátiles y fiables, iluminando cavernas y cubiertas inferiores de naves estelares durante milenios, mientras que los globos luminosos suelen montarse en techos o a lo largo de las paredes.</p><p>El uso de este dispositivo elimina los Rasgos de Iluminación Deficiente y @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#dark]{Oscuridad} de tu Zona. El dispositivo puede brillar durante 5 horas y se recarga después de 2 horas de no uso, o casi de inmediato cuando se conecta a una fuente de energía imperial estándar.</p>"
+    },
+    "Grapnel Launcher": {
+      "name": "Lanza-garfios",
+      "player": "<p>Este conjunto combina un @UUID[Compendium.impmal-core.items.Item.mPC8f9qwwscyRQNs]{Arnés de Escalada} con un lanzador similar a una pistola que dispara un gancho magnético sujeto a una línea. Una vez que el gancho se adhiere a una pared u otra superficie, el motor del garfio eleva al usuario junto con otra persona para un ascenso rápido.</p><p>El Lanzador de Garfio puede alcanzar 50 metros y, una vez fijado, puede elevar a dos criaturas u objetos de tamaño Medio a una velocidad de 5 metros por ronda. Usar el Lanzador de Garfio es una Acción y requiere una Prueba de <strong>Rutina (+20) a Distancia (Pistolas)</strong>.</p>"
+    },
+    "Heavy Leathers": {
+      "name": "Cuero Pesado",
+      "player": ""
+    },
+    "Holy Icon": {
+      "name": "Icono Sagrado",
+      "player": "<p>Un Icono Sagrado puede adoptar numerosas formas dependiendo de la fe de un individuo y la versión específica del Credo Imperial que siga. Para muchos, es un pequeño Aquila, quizá hecho a mano o adquirido durante una peregrinación a un lugar sagrado. También son populares los íconos tallados en el suelo por donde caminó el Santo Macario.</p><p>Un personaje con un Icono Sagrado que haya demostrado una fe suficiente puede añadir +1 GD a las Pruebas de Disciplina (Miedo).</p>"
+    },
+    "Knife": {
+      "name": "Cuchillo",
+      "player": ""
+    },
+    "Lascutter": {
+      "name": "Cortador Láser",
+      "player": "<p>Principalmente utilizado para fracturar mineral, cortar mamparos de naves estelares y forzar puertas resistentes. Los cortadores láser emplean un haz de corte de alta potencia y corto alcance que pocas cosas pueden resistir.</p><p>Un Cortador Láser puede usarse en combinación con Pruebas de Tecnomancia (Ingeniería) para cortar objetos sólidos como mamparos, puertas de bóvedas o pasarelas. Si se emplea como arma, trátalo como un arma improvisada a una mano con los siguientes rasgos: Inflige (En Llamas), Ruidoso, Desgarrador (3).</p>"
+    },
+    "Lasgun": {
+      "name": "Rifle Láser",
+      "player": ""
+    },
+    "Laspistol": {
+      "name": "Pistola Láser",
+      "player": ""
+    },
+    "Pict Recorder": {
+      "name": "Grabador Pictográfico",
+      "player": "<p>Los Grabadores Pictográficos tienen esencialmente un único uso: capturar imágenes fijas y secuencias de vídeo. La mayoría también pueden reproducir el contenido grabado para el usuario y, en general, son lo suficientemente ligeros y duraderos como para usarse en climas hostiles y tabernas aún más rudas. Un Grabador Pictográfico puede almacenar cientos de imágenes y aproximadamente 10 horas de vídeo.</p><p>Operar un Grabador Pictográfico portátil requiere una Acción por cada asalto en que se utilice, pero no requiere una Prueba.</p>"
+    },
+    "Rebreather": {
+      "name": "Rebreather",
+      "player": "<p>Los Rebreathers emplean pequeños tanques de aire junto con sistemas de reciclaje para permitir que el usuario respire normalmente durante un tiempo en atmósferas tóxicas e incluso bajo el agua.</p><p>Mientras usas un Rebreather, ignoras las penalizaciones debidas a aire venenoso, letal o insalubre, y puedes respirar bajo el agua. Los tanques de un Rebreather duran una hora antes de necesitar ser reemplazados como una Acción. Tanques adicionales cuestan 20 solares. Un juego de dos tanques de repuesto tiene 1 de Carga.</p>"
+    },
+    "Respirator/Gas Mask": {
+      "name": "Respirador/Máscara de Gas",
+      "player": "<p>Un objeto básico para operar durante períodos prolongados en atmósferas tóxicas, los respiradores y máscaras de gas cubren la mayor parte del rostro y ofrecen una protección mucho mayor que los @UUID[Compendium.impmal-core.items.Item.OdTP4DEK3oGAjMWZ]{Tapones de Filtración}, a costa de ser voluminosos y dificultar los sentidos.</p><p>Mientras llevas un Respirador, superas automáticamente cualquier Prueba para resistir los efectos de patógenos transportados por el aire, pero sufres Desventaja en Pruebas de Conciencia (Vista).</p>"
+    },
+    "Shock Maul": {
+      "name": "Mazo de Choque",
+      "player": ""
+    },
+    "Shotgun (Pump Action)": {
+      "name": "Escopeta (Corredera)",
+      "player": ""
+    },
+    "Smoke Grenade": {
+      "name": "Granada de Humo",
+      "player": "<p>Las granadas de humo liberan densas nubes de gas que dificultan la visión de la mayoría de las especies (especialmente los Humanos). No bloquean la detección por infrarrojos, sonido u otros medios, por lo que pueden ser contrarrestadas fácilmente por combatientes preparados.</p><p>Las granadas de humo hacen que la Zona objetivo quede @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Fuertemente Obscurecida} durante tres rondas. Esta duración puede extenderse o acortarse dependiendo de la ventilación, como en espacios cerrados o con vientos fuertes.</p>"
+    },
+    "Stub Pistol": {
+      "name": "Pistola de Tambor",
+      "player": ""
+    },
+    "Stub Revolver": {
+      "name": "Revolver de Tambor",
+      "player": ""
+    },
+    "Stummer": {
+      "name": "Silenciador",
+      "player": "<p>Los Silenciadores cancelan el ruido ambiental mediante cogitadores integrados que emplean sensores sónicos y amortiguadores de onda. Son bastante útiles para operaciones encubiertas, pero al cancelar todo sonido, los miembros del equipo deben depender de la comunicación no verbal.</p><p>Cuando se activa como una Acción Libre, un Silenciador aumenta en tres pasos la Dificultad de las Pruebas de Conciencia Sónica realizadas para detectar sonidos inesperados en la misma Zona.</p><p>Su energía dura 20 minutos; la recarga toma varios minutos una vez conectado a una fuente de energía imperial estándar. Los efectos de múltiples Silenciadores no se acumulan.</p>"
+    },
+    "Sword": {
+      "name": "Espada",
+      "player": ""
+    },
+    "Webber": {
+      "name": "Lanzatelarañas",
+      "player": ""
+    }
+  }
+}

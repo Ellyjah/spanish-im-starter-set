@@ -1,0 +1,37 @@
+{
+  "id": "traduccion-im-starter-set-es",
+  "title": "Traducción Starter Set IM al español",
+  "description": "Traducción de la caja de inicio de IM al español.",
+  "authors": [
+    {
+      "name": "Ellyjah"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "im-starter-es.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "impmal-starter-set",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "impmal",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
